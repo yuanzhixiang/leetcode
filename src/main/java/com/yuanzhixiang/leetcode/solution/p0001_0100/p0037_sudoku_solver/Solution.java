@@ -39,6 +39,7 @@ class Solution {
         }
 
         if (row == 9) {
+            // Record search is end
             end = true;
             return;
         }
